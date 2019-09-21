@@ -5,6 +5,9 @@ public class HellloWorld {
     }
 }
 
-    public static String computeUltimateAnswer() {
-        return "still searching...";
+
+
+    public static int computeUltimateAnswer() {
+        return 6 * 7;
+
     }
